@@ -21,6 +21,7 @@ class Solution {
                     }
                     else{
                         ans[i] = String.valueOf(rank);
+                        break;
                     }
                 }
             }
