@@ -19,11 +19,13 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pratikpandit099-source/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/pratikpandit099-source/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +35,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/pratikpandit099-source/DSA/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
