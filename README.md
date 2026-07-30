@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/pratikpandit099-source/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/pratikpandit099-source/DSA/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/pratikpandit099-source/DSA/tree/master/0506-relative-ranks) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikpandit099-source/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/pratikpandit099-source/DSA/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikpandit099-source/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
