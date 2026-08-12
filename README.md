@@ -41,6 +41,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/pratikpandit099-source/DSA/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/pratikpandit099-source/DSA/tree/master/0278-first-bad-version) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikpandit099-source/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/1095-find-in-mountain-array) |
@@ -65,6 +66,7 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/pratikpandit099-source/DSA/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
 |  |
