@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Interactive
 |  |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/1095-find-in-mountain-array) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
