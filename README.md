@@ -11,6 +11,7 @@
 | [0162-find-peak-element](https://github.com/pratikpandit099-source/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/pratikpandit099-source/DSA/tree/master/0217-contains-duplicate) |
 | [0275-h-index-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0275-h-index-ii) |
+| [0436-find-right-interval](https://github.com/pratikpandit099-source/DSA/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/pratikpandit099-source/DSA/tree/master/0506-relative-ranks) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikpandit099-source/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -27,6 +28,7 @@
 | [0088-merge-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pratikpandit099-source/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
+| [0436-find-right-interval](https://github.com/pratikpandit099-source/DSA/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/pratikpandit099-source/DSA/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
@@ -42,6 +44,7 @@
 | [0162-find-peak-element](https://github.com/pratikpandit099-source/DSA/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/pratikpandit099-source/DSA/tree/master/0278-first-bad-version) |
+| [0436-find-right-interval](https://github.com/pratikpandit099-source/DSA/tree/master/0436-find-right-interval) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikpandit099-source/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/1095-find-in-mountain-array) |
