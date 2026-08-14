@@ -3,8 +3,8 @@ class Solution {
         int n = nums.length;
         for(int i =0;i<=n;i++){
             boolean found = false;
-            for (int j = 0;j<n;j++){
-                if(nums[j]== i){
+            for (int j :nums){
+                if(j== i){
                     found = true;
                     break;
                 }
