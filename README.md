@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/pratikpandit099-source/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/pratikpandit099-source/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pratikpandit099-source/DSA/tree/master/0217-contains-duplicate) |
 | [0275-h-index-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0275-h-index-ii) |
 | [0436-find-right-interval](https://github.com/pratikpandit099-source/DSA/tree/master/0436-find-right-interval) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pratikpandit099-source/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pratikpandit099-source/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
 | [0436-find-right-interval](https://github.com/pratikpandit099-source/DSA/tree/master/0436-find-right-interval) |
@@ -34,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/pratikpandit099-source/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pratikpandit099-source/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -79,4 +82,16 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pratikpandit099-source/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pratikpandit099-source/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pratikpandit099-source/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
