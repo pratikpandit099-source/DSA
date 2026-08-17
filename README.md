@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/pratikpandit099-source/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikpandit099-source/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/pratikpandit099-source/DSA/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/pratikpandit099-source/DSA/tree/master/0455-assign-cookies) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikpandit099-source/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/pratikpandit099-source/DSA/tree/master/0455-assign-cookies) |
 ## Sorting
@@ -58,6 +60,7 @@
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/pratikpandit099-source/DSA/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikpandit099-source/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/pratikpandit099-source/DSA/tree/master/0436-find-right-interval) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikpandit099-source/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -111,6 +114,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -119,4 +123,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pratikpandit099-source/DSA/tree/master/0455-assign-cookies) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
