@@ -102,6 +102,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
+| [1927-sum-game](https://github.com/pratikpandit099-source/DSA/tree/master/1927-sum-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1927-sum-game](https://github.com/pratikpandit099-source/DSA/tree/master/1927-sum-game) |
 ## Interactive
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pratikpandit099-source/DSA/tree/master/0455-assign-cookies) |
+| [1927-sum-game](https://github.com/pratikpandit099-source/DSA/tree/master/1927-sum-game) |
 ## Quicksort
 |  |
 | ------- |
@@ -179,4 +182,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/pratikpandit099-source/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
