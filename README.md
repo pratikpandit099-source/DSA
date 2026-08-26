@@ -31,6 +31,7 @@
 | [1095-find-in-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikpandit099-source/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pratikpandit099-source/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/pratikpandit099-source/DSA/tree/master/1672-richest-customer-wealth) |
 | [1872-stone-game-viii](https://github.com/pratikpandit099-source/DSA/tree/master/1872-stone-game-viii) |
@@ -82,6 +83,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikpandit099-source/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pratikpandit099-source/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pratikpandit099-source/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -124,6 +126,7 @@
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/pratikpandit099-source/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/pratikpandit099-source/DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pratikpandit099-source/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pratikpandit099-source/DSA/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
