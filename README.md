@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pratikpandit099-source/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikpandit099-source/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/pratikpandit099-source/DSA/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -104,6 +105,7 @@
 | [0275-h-index-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/pratikpandit099-source/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pratikpandit099-source/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikpandit099-source/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/pratikpandit099-source/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/pratikpandit099-source/DSA/tree/master/0374-guess-number-higher-or-lower) |
@@ -159,6 +161,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/pratikpandit099-source/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pratikpandit099-source/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Counting
 |  |
 | ------- |
@@ -231,4 +234,24 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/pratikpandit099-source/DSA/tree/master/1872-stone-game-viii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pratikpandit099-source/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pratikpandit099-source/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pratikpandit099-source/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pratikpandit099-source/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pratikpandit099-source/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
