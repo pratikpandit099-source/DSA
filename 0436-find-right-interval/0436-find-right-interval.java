@@ -25,7 +25,7 @@ public class Solution{
             int left = 0;
             int right = n - 1;
 
-            // Find the smallest start >= target
+           
             while (left <= right) {
 
                 int mid = left + (right - left) / 2;
@@ -37,7 +37,6 @@ public class Solution{
                 }
             }
 
-            // left is the first valid interval
             if (left < n) {
                 ans[i] = starts[left][1];
             } else {
