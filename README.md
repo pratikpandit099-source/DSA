@@ -112,6 +112,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/pratikpandit099-source/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/pratikpandit099-source/DSA/tree/master/0436-find-right-interval) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikpandit099-source/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0754-reach-a-number](https://github.com/pratikpandit099-source/DSA/tree/master/0754-reach-a-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/1095-find-in-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikpandit099-source/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -140,6 +141,7 @@
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/pratikpandit099-source/DSA/tree/master/0367-valid-perfect-square) |
+| [0754-reach-a-number](https://github.com/pratikpandit099-source/DSA/tree/master/0754-reach-a-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/pratikpandit099-source/DSA/tree/master/1872-stone-game-viii) |
