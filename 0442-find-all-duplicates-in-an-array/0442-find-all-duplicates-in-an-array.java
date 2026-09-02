@@ -14,13 +14,39 @@ class Solution {
         //     }
         // }
         // return result;
-        List<Integer> result = new ArrayList<>();
-        Arrays.sort(nums);
-        for(int i=1;i<nums.length;i++){
-            if(nums[i]==nums[i-1]){
-                result.add(nums[i]);
+    //     List<Integer> result = new ArrayList<>();
+    //     Arrays.sort(nums);
+    //     for(int i=1;i<nums.length;i++){
+    //         if(nums[i]==nums[i-1]){
+    //             result.add(nums[i]);
+    //         }
+    //     }
+    //     return result;
+    // }
+     
+        List<Integer> ans = new ArrayList<>();
+        int i=0;
+        while(i<nums.length){
+            int correct = nums[i]-1;
+            if(nums[i]!= nums[correct]){
+                swap(nums,i,correct);
+            }else{
+                i++;
             }
         }
-        return result;
+        for (int j = 0; j < nums.length; j++) {
+            if(nums[j]!= j+1){
+                ans.add(nums[j]);
+
+            }
+        }
+        return ans;
+
+    }
+    static void swap(int[] arr, int first, int second) {
+        int temp = arr[first];
+        arr[first]= arr[second];
+        arr[second]= temp;
+
     }
 }
