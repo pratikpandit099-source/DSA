@@ -36,6 +36,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikpandit099-source/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratikpandit099-source/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pratikpandit099-source/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pratikpandit099-source/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/pratikpandit099-source/DSA/tree/master/1672-richest-customer-wealth) |
@@ -75,6 +76,7 @@
 | [1051-height-checker](https://github.com/pratikpandit099-source/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikpandit099-source/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pratikpandit099-source/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pratikpandit099-source/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pratikpandit099-source/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
