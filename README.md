@@ -39,6 +39,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pratikpandit099-source/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/pratikpandit099-source/DSA/tree/master/1528-shuffle-string) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pratikpandit099-source/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/pratikpandit099-source/DSA/tree/master/1672-richest-customer-wealth) |
 | [1872-stone-game-viii](https://github.com/pratikpandit099-source/DSA/tree/master/1872-stone-game-viii) |
@@ -136,6 +137,7 @@
 | [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [1108-defanging-an-ip-address](https://github.com/pratikpandit099-source/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/pratikpandit099-source/DSA/tree/master/1528-shuffle-string) |
 | [1927-sum-game](https://github.com/pratikpandit099-source/DSA/tree/master/1927-sum-game) |
 ## Heap (Priority Queue)
 |  |
