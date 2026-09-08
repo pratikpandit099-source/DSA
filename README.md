@@ -137,6 +137,7 @@
 | [0058-length-of-last-word](https://github.com/pratikpandit099-source/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
+| [0709-to-lower-case](https://github.com/pratikpandit099-source/DSA/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/pratikpandit099-source/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/pratikpandit099-source/DSA/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/pratikpandit099-source/DSA/tree/master/1678-goal-parser-interpretation) |
