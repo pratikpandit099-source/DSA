@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/pratikpandit099-source/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pratikpandit099-source/DSA/tree/master/0035-search-insert-position) |
@@ -134,6 +135,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pratikpandit099-source/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/pratikpandit099-source/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
@@ -280,4 +282,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pratikpandit099-source/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pratikpandit099-source/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
