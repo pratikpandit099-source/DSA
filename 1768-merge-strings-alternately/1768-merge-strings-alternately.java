@@ -12,8 +12,7 @@ class Solution {
             }
             i++;
         }
-         String A = result.toString();
 
-        return A ;
+        return result.toString();
     }
 }
