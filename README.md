@@ -142,6 +142,7 @@
 | [0014-longest-common-prefix](https://github.com/pratikpandit099-source/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/pratikpandit099-source/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pratikpandit099-source/DSA/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [0657-robot-return-to-origin](https://github.com/pratikpandit099-source/DSA/tree/master/0657-robot-return-to-origin) |
@@ -164,6 +165,7 @@
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/pratikpandit099-source/DSA/tree/master/0367-valid-perfect-square) |
@@ -298,5 +300,6 @@
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0227-basic-calculator-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/pratikpandit099-source/DSA/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
