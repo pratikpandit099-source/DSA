@@ -59,6 +59,7 @@
 | [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikpandit099-source/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/pratikpandit099-source/DSA/tree/master/0455-assign-cookies) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/pratikpandit099-source/DSA/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0925-long-pressed-name](https://github.com/pratikpandit099-source/DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikpandit099-source/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -147,6 +148,7 @@
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [0657-robot-return-to-origin](https://github.com/pratikpandit099-source/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/pratikpandit099-source/DSA/tree/master/0709-to-lower-case) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/pratikpandit099-source/DSA/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0925-long-pressed-name](https://github.com/pratikpandit099-source/DSA/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/pratikpandit099-source/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/pratikpandit099-source/DSA/tree/master/1528-shuffle-string) |
