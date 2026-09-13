@@ -27,6 +27,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/pratikpandit099-source/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/pratikpandit099-source/DSA/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/pratikpandit099-source/DSA/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/pratikpandit099-source/DSA/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikpandit099-source/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -80,6 +81,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/pratikpandit099-source/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/pratikpandit099-source/DSA/tree/master/0506-relative-ranks) |
+| [0539-minimum-time-difference](https://github.com/pratikpandit099-source/DSA/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/pratikpandit099-source/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/pratikpandit099-source/DSA/tree/master/1051-height-checker) |
@@ -146,6 +148,7 @@
 | [0227-basic-calculator-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/pratikpandit099-source/DSA/tree/master/0539-minimum-time-difference) |
 | [0657-robot-return-to-origin](https://github.com/pratikpandit099-source/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/pratikpandit099-source/DSA/tree/master/0709-to-lower-case) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/pratikpandit099-source/DSA/tree/master/0777-swap-adjacent-in-lr-string) |
@@ -171,6 +174,7 @@
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/pratikpandit099-source/DSA/tree/master/0367-valid-perfect-square) |
+| [0539-minimum-time-difference](https://github.com/pratikpandit099-source/DSA/tree/master/0539-minimum-time-difference) |
 | [0754-reach-a-number](https://github.com/pratikpandit099-source/DSA/tree/master/0754-reach-a-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
