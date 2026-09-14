@@ -53,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpandit099-source/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/pratikpandit099-source/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pratikpandit099-source/DSA/tree/master/0125-valid-palindrome) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pratikpandit099-source/DSA/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpandit099-source/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/pratikpandit099-source/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pratikpandit099-source/DSA/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0227-basic-calculator-ii) |
@@ -308,4 +310,20 @@
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0227-basic-calculator-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/pratikpandit099-source/DSA/tree/master/2000-reverse-prefix-of-word) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpandit099-source/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpandit099-source/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpandit099-source/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpandit099-source/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
