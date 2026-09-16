@@ -150,6 +150,7 @@
 | [0227-basic-calculator-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
+| [0412-fizz-buzz](https://github.com/pratikpandit099-source/DSA/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/pratikpandit099-source/DSA/tree/master/0539-minimum-time-difference) |
 | [0657-robot-return-to-origin](https://github.com/pratikpandit099-source/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/pratikpandit099-source/DSA/tree/master/0709-to-lower-case) |
@@ -176,6 +177,7 @@
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/pratikpandit099-source/DSA/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/pratikpandit099-source/DSA/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/pratikpandit099-source/DSA/tree/master/0539-minimum-time-difference) |
 | [0754-reach-a-number](https://github.com/pratikpandit099-source/DSA/tree/master/0754-reach-a-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -249,6 +251,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/pratikpandit099-source/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/pratikpandit099-source/DSA/tree/master/0657-robot-return-to-origin) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pratikpandit099-source/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Counting Sort
