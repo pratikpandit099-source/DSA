@@ -197,6 +197,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/pratikpandit099-source/DSA/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pratikpandit099-source/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/pratikpandit099-source/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/pratikpandit099-source/DSA/tree/master/3024-type-of-triangle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pratikpandit099-source/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/pratikpandit099-source/DSA/tree/master/3870-count-commas-in-range) |
