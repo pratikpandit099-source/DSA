@@ -51,6 +51,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pratikpandit099-source/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pratikpandit099-source/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/pratikpandit099-source/DSA/tree/master/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pratikpandit099-source/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pratikpandit099-source/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -167,6 +168,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/pratikpandit099-source/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/pratikpandit099-source/DSA/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/pratikpandit099-source/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2942-find-words-containing-character](https://github.com/pratikpandit099-source/DSA/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/pratikpandit099-source/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
