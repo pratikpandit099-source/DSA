@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/pratikpandit099-source/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/pratikpandit099-source/DSA/tree/master/0367-valid-perfect-square) |
@@ -267,6 +268,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/pratikpandit099-source/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pratikpandit099-source/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/pratikpandit099-source/DSA/tree/master/0657-robot-return-to-origin) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pratikpandit099-source/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -350,4 +352,8 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/pratikpandit099-source/DSA/tree/master/3024-type-of-triangle) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/pratikpandit099-source/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
