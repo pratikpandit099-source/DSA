@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pratikpandit099-source/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/pratikpandit099-source/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/pratikpandit099-source/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pratikpandit099-source/DSA/tree/master/0217-contains-duplicate) |
@@ -154,6 +155,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pratikpandit099-source/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/pratikpandit099-source/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpandit099-source/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/pratikpandit099-source/DSA/tree/master/0058-length-of-last-word) |
@@ -373,6 +375,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pratikpandit099-source/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/pratikpandit099-source/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratikpandit099-source/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pratikpandit099-source/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
