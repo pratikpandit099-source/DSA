@@ -28,6 +28,7 @@
 | [0455-assign-cookies](https://github.com/pratikpandit099-source/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/pratikpandit099-source/DSA/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/pratikpandit099-source/DSA/tree/master/0539-minimum-time-difference) |
+| [0643-maximum-average-subarray-i](https://github.com/pratikpandit099-source/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/pratikpandit099-source/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/pratikpandit099-source/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikpandit099-source/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -367,4 +368,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/pratikpandit099-source/DSA/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/pratikpandit099-source/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
