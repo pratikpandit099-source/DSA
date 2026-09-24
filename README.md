@@ -56,6 +56,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/pratikpandit099-source/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/pratikpandit099-source/DSA/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/pratikpandit099-source/DSA/tree/master/3024-type-of-triangle) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratikpandit099-source/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pratikpandit099-source/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pratikpandit099-source/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/pratikpandit099-source/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -209,6 +210,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/pratikpandit099-source/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pratikpandit099-source/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/pratikpandit099-source/DSA/tree/master/3024-type-of-triangle) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratikpandit099-source/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pratikpandit099-source/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/pratikpandit099-source/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/pratikpandit099-source/DSA/tree/master/3871-count-commas-in-range-ii) |
