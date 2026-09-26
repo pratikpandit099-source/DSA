@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/pratikpandit099-source/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikpandit099-source/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pratikpandit099-source/DSA/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pratikpandit099-source/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
@@ -135,6 +136,7 @@
 | [0035-search-insert-position](https://github.com/pratikpandit099-source/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/pratikpandit099-source/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikpandit099-source/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/pratikpandit099-source/DSA/tree/master/0278-first-bad-version) |
@@ -317,6 +319,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratikpandit099-source/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratikpandit099-source/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1872-stone-game-viii](https://github.com/pratikpandit099-source/DSA/tree/master/1872-stone-game-viii) |
@@ -385,6 +388,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratikpandit099-source/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/pratikpandit099-source/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/pratikpandit099-source/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratikpandit099-source/DSA/tree/master/1004-max-consecutive-ones-iii) |
