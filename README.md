@@ -41,6 +41,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/pratikpandit099-source/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/pratikpandit099-source/DSA/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/pratikpandit099-source/DSA/tree/master/1095-find-in-mountain-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratikpandit099-source/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratikpandit099-source/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikpandit099-source/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -126,6 +127,7 @@
 | [0645-set-mismatch](https://github.com/pratikpandit099-source/DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/pratikpandit099-source/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratikpandit099-source/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikpandit099-source/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikpandit099-source/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
@@ -210,6 +212,7 @@
 | [0509-fibonacci-number](https://github.com/pratikpandit099-source/DSA/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/pratikpandit099-source/DSA/tree/master/0539-minimum-time-difference) |
 | [0754-reach-a-number](https://github.com/pratikpandit099-source/DSA/tree/master/0754-reach-a-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratikpandit099-source/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
@@ -327,6 +330,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/pratikpandit099-source/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratikpandit099-source/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratikpandit099-source/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratikpandit099-source/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1872-stone-game-viii](https://github.com/pratikpandit099-source/DSA/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
@@ -400,6 +404,7 @@
 | [0904-fruit-into-baskets](https://github.com/pratikpandit099-source/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratikpandit099-source/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratikpandit099-source/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratikpandit099-source/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratikpandit099-source/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pratikpandit099-source/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
