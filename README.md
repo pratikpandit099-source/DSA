@@ -58,6 +58,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/pratikpandit099-source/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1872-stone-game-viii](https://github.com/pratikpandit099-source/DSA/tree/master/1872-stone-game-viii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2090-k-radius-subarray-averages](https://github.com/pratikpandit099-source/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pratikpandit099-source/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pratikpandit099-source/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -410,6 +411,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratikpandit099-source/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratikpandit099-source/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pratikpandit099-source/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2090-k-radius-subarray-averages](https://github.com/pratikpandit099-source/DSA/tree/master/2090-k-radius-subarray-averages) |
 ## Bracket Sequences
 |  |
 | ------- |
