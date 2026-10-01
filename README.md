@@ -57,6 +57,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pratikpandit099-source/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/pratikpandit099-source/DSA/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/pratikpandit099-source/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/pratikpandit099-source/DSA/tree/master/1872-stone-game-viii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2090-k-radius-subarray-averages](https://github.com/pratikpandit099-source/DSA/tree/master/2090-k-radius-subarray-averages) |
@@ -221,6 +222,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/pratikpandit099-source/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/pratikpandit099-source/DSA/tree/master/1927-sum-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pratikpandit099-source/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
