@@ -176,6 +176,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratikpandit099-source/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/pratikpandit099-source/DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpandit099-source/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/pratikpandit099-source/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pratikpandit099-source/DSA/tree/master/0125-valid-palindrome) |
@@ -327,6 +328,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/pratikpandit099-source/DSA/tree/master/0509-fibonacci-number) |
 | [1872-stone-game-viii](https://github.com/pratikpandit099-source/DSA/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -424,9 +426,14 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pratikpandit099-source/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
