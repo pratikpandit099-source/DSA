@@ -135,6 +135,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/pratikpandit099-source/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikpandit099-source/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikpandit099-source/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratikpandit099-source/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikpandit099-source/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pratikpandit099-source/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -194,6 +195,7 @@
 | [0777-swap-adjacent-in-lr-string](https://github.com/pratikpandit099-source/DSA/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0925-long-pressed-name](https://github.com/pratikpandit099-source/DSA/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/pratikpandit099-source/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratikpandit099-source/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pratikpandit099-source/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/pratikpandit099-source/DSA/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -437,6 +439,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/pratikpandit099-source/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikpandit099-source/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratikpandit099-source/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratikpandit099-source/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratikpandit099-source/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pratikpandit099-source/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/pratikpandit099-source/DSA/tree/master/2090-k-radius-subarray-averages) |
