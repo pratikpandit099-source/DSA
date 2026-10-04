@@ -220,6 +220,7 @@
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/pratikpandit099-source/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/pratikpandit099-source/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pratikpandit099-source/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/pratikpandit099-source/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/pratikpandit099-source/DSA/tree/master/0509-fibonacci-number) |
@@ -259,6 +260,7 @@
 | [0231-power-of-two](https://github.com/pratikpandit099-source/DSA/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/pratikpandit099-source/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/pratikpandit099-source/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/pratikpandit099-source/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -283,6 +285,7 @@
 | [0231-power-of-two](https://github.com/pratikpandit099-source/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/pratikpandit099-source/DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/pratikpandit099-source/DSA/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Greedy
