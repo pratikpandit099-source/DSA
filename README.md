@@ -223,6 +223,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/pratikpandit099-source/DSA/tree/master/0007-reverse-integer) |
 | [0227-basic-calculator-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/pratikpandit099-source/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pratikpandit099-source/DSA/tree/master/0258-add-digits) |
