@@ -198,6 +198,7 @@
 | [0709-to-lower-case](https://github.com/pratikpandit099-source/DSA/tree/master/0709-to-lower-case) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/pratikpandit099-source/DSA/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0856-score-of-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratikpandit099-source/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/pratikpandit099-source/DSA/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/pratikpandit099-source/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratikpandit099-source/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -301,6 +302,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/pratikpandit099-source/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/pratikpandit099-source/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratikpandit099-source/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/pratikpandit099-source/DSA/tree/master/1927-sum-game) |
 ## Quicksort
 |  |
@@ -404,6 +406,7 @@
 | [0227-basic-calculator-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0227-basic-calculator-ii) |
 | [0678-valid-parenthesis-string](https://github.com/pratikpandit099-source/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratikpandit099-source/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/pratikpandit099-source/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
@@ -458,6 +461,7 @@
 | [0032-longest-valid-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/pratikpandit099-source/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratikpandit099-source/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
