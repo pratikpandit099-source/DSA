@@ -235,6 +235,7 @@
 | [0412-fizz-buzz](https://github.com/pratikpandit099-source/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/pratikpandit099-source/DSA/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/pratikpandit099-source/DSA/tree/master/0539-minimum-time-difference) |
+| [0728-self-dividing-numbers](https://github.com/pratikpandit099-source/DSA/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/pratikpandit099-source/DSA/tree/master/0754-reach-a-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikpandit099-source/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
