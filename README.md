@@ -81,6 +81,7 @@
 | [0088-merge-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pratikpandit099-source/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikpandit099-source/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/pratikpandit099-source/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikpandit099-source/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/pratikpandit099-source/DSA/tree/master/0455-assign-cookies) |
@@ -124,6 +125,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratikpandit099-source/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/pratikpandit099-source/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/pratikpandit099-source/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/pratikpandit099-source/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/pratikpandit099-source/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pratikpandit099-source/DSA/tree/master/0242-valid-anagram) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pratikpandit099-source/DSA/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/pratikpandit099-source/DSA/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/pratikpandit099-source/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pratikpandit099-source/DSA/tree/master/0258-add-digits) |
@@ -319,6 +322,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/pratikpandit099-source/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bubble Sort
 |  |
