@@ -146,6 +146,7 @@
 | [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pratikpandit099-source/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pratikpandit099-source/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3945-digit-frequency-score](https://github.com/pratikpandit099-source/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 | [3870-count-commas-in-range](https://github.com/pratikpandit099-source/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/pratikpandit099-source/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pratikpandit099-source/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/pratikpandit099-source/DSA/tree/master/3945-digit-frequency-score) |
 ## Interactive
 |  |
 | ------- |
