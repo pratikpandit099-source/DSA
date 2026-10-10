@@ -28,6 +28,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/pratikpandit099-source/DSA/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/pratikpandit099-source/DSA/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/pratikpandit099-source/DSA/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/pratikpandit099-source/DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/pratikpandit099-source/DSA/tree/master/0560-subarray-sum-equals-k) |
