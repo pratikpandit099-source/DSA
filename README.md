@@ -165,6 +165,7 @@
 | [0367-valid-perfect-square](https://github.com/pratikpandit099-source/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/pratikpandit099-source/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/pratikpandit099-source/DSA/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/pratikpandit099-source/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/pratikpandit099-source/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/pratikpandit099-source/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratikpandit099-source/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -237,6 +238,7 @@
 | [0342-power-of-four](https://github.com/pratikpandit099-source/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pratikpandit099-source/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/pratikpandit099-source/DSA/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/pratikpandit099-source/DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/pratikpandit099-source/DSA/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/pratikpandit099-source/DSA/tree/master/0539-minimum-time-difference) |
 | [0728-self-dividing-numbers](https://github.com/pratikpandit099-source/DSA/tree/master/0728-self-dividing-numbers) |
