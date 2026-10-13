@@ -73,6 +73,7 @@
 | [3024-type-of-triangle](https://github.com/pratikpandit099-source/DSA/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratikpandit099-source/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pratikpandit099-source/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/pratikpandit099-source/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pratikpandit099-source/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/pratikpandit099-source/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -120,6 +121,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pratikpandit099-source/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3024-type-of-triangle](https://github.com/pratikpandit099-source/DSA/tree/master/3024-type-of-triangle) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/pratikpandit099-source/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,6 +318,7 @@
 | [0678-valid-parenthesis-string](https://github.com/pratikpandit099-source/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratikpandit099-source/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/pratikpandit099-source/DSA/tree/master/1927-sum-game) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/pratikpandit099-source/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
