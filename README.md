@@ -263,6 +263,7 @@
 | [3024-type-of-triangle](https://github.com/pratikpandit099-source/DSA/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratikpandit099-source/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pratikpandit099-source/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/pratikpandit099-source/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/pratikpandit099-source/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pratikpandit099-source/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -318,6 +319,7 @@
 | [0678-valid-parenthesis-string](https://github.com/pratikpandit099-source/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratikpandit099-source/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/pratikpandit099-source/DSA/tree/master/1927-sum-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/pratikpandit099-source/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pratikpandit099-source/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
