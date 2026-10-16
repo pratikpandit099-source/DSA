@@ -151,6 +151,7 @@
 | [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pratikpandit099-source/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pratikpandit099-source/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pratikpandit099-source/DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pratikpandit099-source/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/pratikpandit099-source/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
@@ -223,6 +224,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/pratikpandit099-source/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2942-find-words-containing-character](https://github.com/pratikpandit099-source/DSA/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/pratikpandit099-source/DSA/tree/master/3019-number-of-changing-keys) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pratikpandit099-source/DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/pratikpandit099-source/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -476,6 +478,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratikpandit099-source/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pratikpandit099-source/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/pratikpandit099-source/DSA/tree/master/2090-k-radius-subarray-averages) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pratikpandit099-source/DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
