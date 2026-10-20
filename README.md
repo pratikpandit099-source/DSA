@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pratikpandit099-source/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0313-super-ugly-number](https://github.com/pratikpandit099-source/DSA/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pratikpandit099-source/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/pratikpandit099-source/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/pratikpandit099-source/DSA/tree/master/0436-find-right-interval) |
@@ -245,6 +246,7 @@
 | [0258-add-digits](https://github.com/pratikpandit099-source/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pratikpandit099-source/DSA/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/pratikpandit099-source/DSA/tree/master/0273-integer-to-english-words) |
+| [0313-super-ugly-number](https://github.com/pratikpandit099-source/DSA/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/pratikpandit099-source/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pratikpandit099-source/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pratikpandit099-source/DSA/tree/master/0367-valid-perfect-square) |
@@ -376,6 +378,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0313-super-ugly-number](https://github.com/pratikpandit099-source/DSA/tree/master/0313-super-ugly-number) |
 | [0509-fibonacci-number](https://github.com/pratikpandit099-source/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/pratikpandit099-source/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1872-stone-game-viii](https://github.com/pratikpandit099-source/DSA/tree/master/1872-stone-game-viii) |
