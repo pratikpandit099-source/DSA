@@ -67,6 +67,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pratikpandit099-source/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/pratikpandit099-source/DSA/tree/master/2090-k-radius-subarray-averages) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/pratikpandit099-source/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pratikpandit099-source/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pratikpandit099-source/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -152,6 +153,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratikpandit099-source/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikpandit099-source/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pratikpandit099-source/DSA/tree/master/1512-number-of-good-pairs) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/pratikpandit099-source/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pratikpandit099-source/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pratikpandit099-source/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pratikpandit099-source/DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -226,6 +228,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/pratikpandit099-source/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/pratikpandit099-source/DSA/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/pratikpandit099-source/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/pratikpandit099-source/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2942-find-words-containing-character](https://github.com/pratikpandit099-source/DSA/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/pratikpandit099-source/DSA/tree/master/3019-number-of-changing-keys) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pratikpandit099-source/DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -506,4 +509,16 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pratikpandit099-source/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/pratikpandit099-source/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/pratikpandit099-source/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/pratikpandit099-source/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
