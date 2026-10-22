@@ -243,6 +243,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pratikpandit099-source/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/pratikpandit099-source/DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/pratikpandit099-source/DSA/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/pratikpandit099-source/DSA/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/pratikpandit099-source/DSA/tree/master/0231-power-of-two) |
