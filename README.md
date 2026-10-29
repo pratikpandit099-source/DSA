@@ -12,6 +12,7 @@
 | [0041-first-missing-positive](https://github.com/pratikpandit099-source/DSA/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/pratikpandit099-source/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pratikpandit099-source/DSA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/pratikpandit099-source/DSA/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/pratikpandit099-source/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikpandit099-source/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pratikpandit099-source/DSA/tree/master/0169-majority-element) |
@@ -382,6 +383,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pratikpandit099-source/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/pratikpandit099-source/DSA/tree/master/0118-pascals-triangle) |
 | [0313-super-ugly-number](https://github.com/pratikpandit099-source/DSA/tree/master/0313-super-ugly-number) |
 | [0509-fibonacci-number](https://github.com/pratikpandit099-source/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/pratikpandit099-source/DSA/tree/master/0678-valid-parenthesis-string) |
