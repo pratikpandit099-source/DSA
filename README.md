@@ -234,12 +234,14 @@
 | [3019-number-of-changing-keys](https://github.com/pratikpandit099-source/DSA/tree/master/3019-number-of-changing-keys) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pratikpandit099-source/DSA/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/pratikpandit099-source/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pratikpandit099-source/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/pratikpandit099-source/DSA/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pratikpandit099-source/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
 |  |
 | ------- |
@@ -516,6 +518,7 @@
 |  |
 | ------- |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/pratikpandit099-source/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pratikpandit099-source/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -524,4 +527,8 @@
 |  |
 | ------- |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/pratikpandit099-source/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pratikpandit099-source/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
