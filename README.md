@@ -29,6 +29,7 @@
 | [0436-find-right-interval](https://github.com/pratikpandit099-source/DSA/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pratikpandit099-source/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pratikpandit099-source/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/pratikpandit099-source/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pratikpandit099-source/DSA/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/pratikpandit099-source/DSA/tree/master/0506-relative-ranks) |
@@ -259,6 +260,7 @@
 | [0367-valid-perfect-square](https://github.com/pratikpandit099-source/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/pratikpandit099-source/DSA/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/pratikpandit099-source/DSA/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pratikpandit099-source/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/pratikpandit099-source/DSA/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/pratikpandit099-source/DSA/tree/master/0539-minimum-time-difference) |
 | [0728-self-dividing-numbers](https://github.com/pratikpandit099-source/DSA/tree/master/0728-self-dividing-numbers) |
